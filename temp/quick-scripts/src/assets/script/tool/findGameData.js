@@ -10,8 +10,8 @@ var onCloseFinishCb = null;
 var onClosefailCb = null;
 var findGameData = /** @class */ (function () {
     function findGameData() {
-        this.privacyPolicyUrl = "https://sites.google.com/view/chic-contrast-privacy-policy/%E9%A6%96%E9%A1%B5";
-        this.termsofServiceUrl = "https://sites.google.com/view/chiccontrasttermsofservice/%E9%A6%96%E9%A1%B5";
+        this.privacyPolicyUrl = "https://sites.google.com/view/vuntage-women-privacy-policy/halaman-muka";
+        this.termsofServiceUrl = "https://sites.google.com/view/vuntagewomentermsofservice/halaman-muka";
         this.levelAll = 30;
         this.userData = {
             isClause: false,

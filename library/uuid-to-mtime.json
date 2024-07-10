@@ -665,8 +665,8 @@
     "relativePath": "scene/host.fire"
   },
   "c44884e9-3c69-4ddf-ac5f-92e2b480b79b": {
-    "asset": 1720410816000,
-    "meta": 1720576211567,
+    "asset": 1720595011576,
+    "meta": 1720595011581,
     "relativePath": "scene/parlour.fire"
   },
   "2cea8f23-154b-459b-a89a-23e7d07d6b63": {
@@ -1664,14 +1664,14 @@
     "meta": 1720576213087,
     "relativePath": "resources/sound/bgm.mp3"
   },
-  "57cab89b-95bc-4e07-b2ad-915e8c8991bf": {
-    "asset": 1720580255695,
-    "meta": 1720580548032,
-    "relativePath": "script/tool/findGameData.ts"
-  },
   "73ed6fd0-771c-4efa-921b-4634be158fce": {
     "asset": 1720580853552,
     "meta": 1720580861184,
     "relativePath": "script/host.ts"
+  },
+  "57cab89b-95bc-4e07-b2ad-915e8c8991bf": {
+    "asset": 1720593815741,
+    "meta": 1720593817868,
+    "relativePath": "script/tool/findGameData.ts"
   }
 }

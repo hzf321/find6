@@ -21,8 +21,8 @@ class findGameData {
         }, this);
     }
 
-    privacyPolicyUrl: string = "https://sites.google.com/view/chic-contrast-privacy-policy/%E9%A6%96%E9%A1%B5";
-    termsofServiceUrl: string = "https://sites.google.com/view/chiccontrasttermsofservice/%E9%A6%96%E9%A1%B5";
+    privacyPolicyUrl: string = "https://sites.google.com/view/vuntage-women-privacy-policy/halaman-muka";
+    termsofServiceUrl: string = "https://sites.google.com/view/vuntagewomentermsofservice/halaman-muka";
 
     levelAll: number = 30;
     userData: any = {
