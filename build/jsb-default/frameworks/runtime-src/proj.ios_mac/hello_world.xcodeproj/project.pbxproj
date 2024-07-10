@@ -798,7 +798,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dfvjf.ijsiov123;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kcymaefutg.vuntage;
 				PRODUCT_NAME = "Vuntage Women";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
@@ -843,7 +843,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dfvjf.ijsiov123;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kcymaefutg.vuntage;
 				PRODUCT_NAME = "Vuntage Women";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
