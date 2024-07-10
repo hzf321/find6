@@ -1,0 +1,277 @@
+{
+  "projectPath": "/Users/aw/Desktop/find6",
+  "actualPlatform": "ios",
+  "mtimes": {
+    "1f243b51-6f38-44af-9007-c10b75395de7": {
+      "assetMtime": 1715846988000,
+      "metaMtime": 1720576211686
+    },
+    "05dde845-bd0e-4595-a1b6-ab5661485d4a": {
+      "assetMtime": 1720168800000,
+      "metaMtime": 1720576211701
+    },
+    "4b13cd00-3f89-4a89-a3c6-8c09f73104f2": {
+      "assetMtime": 1720168800000,
+      "metaMtime": 1720576211701
+    },
+    "3d66d6c3-d442-46b6-bfc5-f5d715db500a": {
+      "assetMtime": 1720168800000,
+      "metaMtime": 1720576211700
+    },
+    "81dd98ee-4c04-49eb-8f5c-afb43b64a493": {
+      "assetMtime": 1720168800000,
+      "metaMtime": 1720576211700
+    },
+    "82f4619f-a812-4904-a6a9-bfa61ddd05df": {
+      "assetMtime": 1720168850000,
+      "metaMtime": 1720576211703
+    },
+    "4c4c9f1c-3573-4ec1-b2e0-036831ee3584": {
+      "assetMtime": 1720168850000,
+      "metaMtime": 1720576211703
+    },
+    "8765effa-6642-41a1-b01f-2a5b70e38c3f": {
+      "assetMtime": 1720168800000,
+      "metaMtime": 1720576211705
+    },
+    "53531fb3-c955-4dac-84d2-f038a773d7ea": {
+      "assetMtime": 1720168800000,
+      "metaMtime": 1720576211705
+    },
+    "b6450923-618c-430c-944d-8eb9331220ad": {
+      "assetMtime": 1720168818000,
+      "metaMtime": 1720576211716
+    },
+    "ada109cc-299a-4157-a681-bc0cf26799ca": {
+      "assetMtime": 1720168818000,
+      "metaMtime": 1720576211716
+    },
+    "cc7210fb-4cf9-41d8-aa72-f762189a1c3d": {
+      "assetMtime": 1716518714000,
+      "metaMtime": 1720576211720
+    },
+    "f27755c6-2fbe-441b-9d1d-2c71cf73222a": {
+      "assetMtime": 1716518714000,
+      "metaMtime": 1720576211720
+    },
+    "e145512b-857e-4ba6-8fc7-cb57aa18c6fe": {
+      "assetMtime": 1720168850000,
+      "metaMtime": 1720576211717
+    },
+    "1ef16658-9ecd-41d2-9a55-ba4806b2fc17": {
+      "assetMtime": 1720168850000,
+      "metaMtime": 1720576211717
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "1f243b51-6f38-44af-9007-c10b75395de7",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "ocean_off",
+            "uuid": "3d66d6c3-d442-46b6-bfc5-f5d715db500a",
+            "textureUuid": "81dd98ee-4c04-49eb-8f5c-afb43b64a493",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576525140_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 120,
+              "height": 56,
+              "rotatedWidth": 120,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 120,
+            "rawHeight": 56,
+            "width": 126,
+            "height": 62,
+            "originalPath": "/Users/aw/Desktop/find6/library/imports/81/81dd98ee-4c04-49eb-8f5c-afb43b64a493.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 126,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "ocean_on",
+            "uuid": "8765effa-6642-41a1-b01f-2a5b70e38c3f",
+            "textureUuid": "53531fb3-c955-4dac-84d2-f038a773d7ea",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576525143_image_3.png",
+            "trim": {
+              "x": 129,
+              "y": 3,
+              "width": 120,
+              "height": 55,
+              "rotatedWidth": 55,
+              "rotatedHeight": 120
+            },
+            "rawWidth": 120,
+            "rawHeight": 55,
+            "width": 126,
+            "height": 61,
+            "originalPath": "/Users/aw/Desktop/find6/library/imports/53/53531fb3-c955-4dac-84d2-f038a773d7ea.png",
+            "x": 126,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 61,
+            "rotatedHeight": 126
+          },
+          {
+            "name": "ocean_music",
+            "uuid": "82f4619f-a812-4904-a6a9-bfa61ddd05df",
+            "textureUuid": "4c4c9f1c-3573-4ec1-b2e0-036831ee3584",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576525142_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 65,
+              "width": 514,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 514
+            },
+            "rawWidth": 514,
+            "rawHeight": 90,
+            "width": 520,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find6/library/imports/4c/4c4c9f1c-3573-4ec1-b2e0-036831ee3584.png",
+            "x": 0,
+            "y": 62,
+            "rotated": true,
+            "rotatedWidth": 96,
+            "rotatedHeight": 520
+          },
+          {
+            "name": "ocean_sound",
+            "uuid": "e145512b-857e-4ba6-8fc7-cb57aa18c6fe",
+            "textureUuid": "1ef16658-9ecd-41d2-9a55-ba4806b2fc17",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576525144_image_6.png",
+            "trim": {
+              "x": 99,
+              "y": 129,
+              "width": 514,
+              "height": 90,
+              "rotatedWidth": 90,
+              "rotatedHeight": 514
+            },
+            "rawWidth": 514,
+            "rawHeight": 90,
+            "width": 520,
+            "height": 96,
+            "originalPath": "/Users/aw/Desktop/find6/library/imports/1e/1ef16658-9ecd-41d2-9a55-ba4806b2fc17.png",
+            "x": 96,
+            "y": 126,
+            "rotated": true,
+            "rotatedWidth": 96,
+            "rotatedHeight": 520
+          },
+          {
+            "name": "ocean_title",
+            "uuid": "b6450923-618c-430c-944d-8eb9331220ad",
+            "textureUuid": "ada109cc-299a-4157-a681-bc0cf26799ca",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576525143_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 585,
+              "width": 339,
+              "height": 81,
+              "rotatedWidth": 81,
+              "rotatedHeight": 339
+            },
+            "rawWidth": 339,
+            "rawHeight": 81,
+            "width": 345,
+            "height": 87,
+            "originalPath": "/Users/aw/Desktop/find6/library/imports/ad/ada109cc-299a-4157-a681-bc0cf26799ca.png",
+            "x": 0,
+            "y": 582,
+            "rotated": true,
+            "rotatedWidth": 87,
+            "rotatedHeight": 345
+          },
+          {
+            "name": "ocean_ok",
+            "uuid": "05dde845-bd0e-4595-a1b6-ab5661485d4a",
+            "textureUuid": "4b13cd00-3f89-4a89-a3c6-8c09f73104f2",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576525139_image_0.png",
+            "trim": {
+              "x": 90,
+              "y": 649,
+              "width": 284,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 284
+            },
+            "rawWidth": 284,
+            "rawHeight": 76,
+            "width": 290,
+            "height": 82,
+            "originalPath": "/Users/aw/Desktop/find6/library/imports/4b/4b13cd00-3f89-4a89-a3c6-8c09f73104f2.png",
+            "x": 87,
+            "y": 646,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 290
+          },
+          {
+            "name": "ocean_zhengodng",
+            "uuid": "cc7210fb-4cf9-41d8-aa72-f762189a1c3d",
+            "textureUuid": "f27755c6-2fbe-441b-9d1d-2c71cf73222a",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576525143_image_5.png",
+            "trim": {
+              "x": 3,
+              "y": 930,
+              "width": 46,
+              "height": 48,
+              "rotatedWidth": 48,
+              "rotatedHeight": 46
+            },
+            "rawWidth": 46,
+            "rawHeight": 48,
+            "width": 52,
+            "height": 54,
+            "originalPath": "/Users/aw/Desktop/find6/library/imports/f2/f27755c6-2fbe-441b-9d1d-2c71cf73222a.png",
+            "x": 0,
+            "y": 927,
+            "rotated": true,
+            "rotatedWidth": 54,
+            "rotatedHeight": 52
+          }
+        ],
+        "width": 192,
+        "height": 979,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/aw/Desktop/find6/temp/TexturePacker/build/native/assets/img/ocean/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/aw/Desktop/find6/temp/TexturePacker/build/native/assets/img/ocean/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

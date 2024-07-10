@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "peace_bor",
+    "texture": "fe6c8fd1-b32d-4c50-b0d5-faa2e0272bf4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      487
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      487
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

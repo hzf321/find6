@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "earth_exit",
+    "texture": "a5958738-314c-48a6-bb88-4bfc2c51f46f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "earth_heart",
+    "texture": "936def9a-9243-4148-92e1-12ea900e284f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

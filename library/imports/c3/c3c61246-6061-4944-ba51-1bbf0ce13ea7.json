@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiger_exitBtn",
+    "texture": "cf9c66b9-843a-42b6-ad9d-5bb0de52fd22",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      165,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      165,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

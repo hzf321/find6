@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "earth_pauseicon",
+    "texture": "1a0af009-2b47-450b-a1eb-83c5e08d2ff4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

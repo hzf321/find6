@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dream_huangjingdu ",
+    "texture": "5b8b03e1-1d7b-4202-97bf-d76d89f129ea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      392,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      392,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

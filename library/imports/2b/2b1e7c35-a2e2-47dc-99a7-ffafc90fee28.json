@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "earth_icon_heart2",
+    "texture": "1382d93e-7718-4cfb-9daf-d6e128f18a1c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "happy_radiant_setting",
+    "texture": "20b5a922-629f-44f8-bc72-bf2d132bdf01",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tranquility_logo",
+    "texture": "a995e65c-37c2-4df6-a0c3-15d1ccafd2df",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      404,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      404,
+      266
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

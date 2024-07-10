@@ -1,0 +1,27 @@
+
+aixin.png
+size: 102,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ic/icon heart
+  rotate: true
+  xy: 2, 2
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+ic/xin1
+  rotate: false
+  xy: 41, 8
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+ic/xin2
+  rotate: false
+  xy: 74, 7
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1

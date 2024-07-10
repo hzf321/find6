@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "peace_dialogbg",
+    "texture": "85801eca-b4e7-4ada-95db-93630f93b3b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      428,
+      457
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      428,
+      457
+    ],
+    "capInsets": [
+      0,
+      306,
+      0,
+      151
+    ]
+  }
+}

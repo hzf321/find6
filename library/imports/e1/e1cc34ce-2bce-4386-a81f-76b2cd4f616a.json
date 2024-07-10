@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dream_dengpao",
+    "texture": "6e4f97d5-99a9-4856-8945-2d7b38c7a489",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

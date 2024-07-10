@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aixin",
+    "texture": "c0c9e78c-f855-41f9-b250-7206e10c4289",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      98,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tranquility_bar_di",
+    "texture": "5df219a2-6ee3-449a-a467-2bd072b76e2e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      392,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      392,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

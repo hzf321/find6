@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "happy_itemmask",
+    "texture": "166cfccb-9814-4cd2-aa38-e2a9dfc20a19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

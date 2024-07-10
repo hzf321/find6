@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "happy_scrollview_di",
+    "texture": "54a21bd0-806d-4535-ac88-4aaefefbfcb5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1080,
+      719
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1080,
+      719
+    ],
+    "capInsets": [
+      183,
+      341,
+      187,
+      158
+    ]
+  }
+}

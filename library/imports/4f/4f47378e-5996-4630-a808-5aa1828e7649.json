@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "happy_blue_book",
+    "texture": "18f40745-bc26-4c8b-bb34-5e374f59713a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      425,
+      500
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      425,
+      500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

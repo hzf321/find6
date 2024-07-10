@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tranquility_play_text",
+    "texture": "359ad352-7e48-4b67-a37f-51d450ecef56",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      418,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      418,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

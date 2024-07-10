@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "happy_border",
+    "texture": "66348f1e-62c1-47f7-a19b-8ef10fb1d203",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      282,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      282,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dream_level",
+    "texture": "83122e22-d912-45e4-8e0b-7c12499d4c8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      244,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      244,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
