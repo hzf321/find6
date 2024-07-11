@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "peace_tishi",
+    "texture": "cf5bd48c-db6e-42c9-9d8d-b3f5069ebed9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      878,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      878,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

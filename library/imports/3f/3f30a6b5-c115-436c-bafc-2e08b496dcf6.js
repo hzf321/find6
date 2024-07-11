@@ -86,7 +86,7 @@ var register = /** @class */ (function (_super) {
                     toast.active = true;
                     parentNode.addChild(toast);
                     var toastLabel = toast.getChildByName("label");
-                    toastLabel.getComponent(cc.Label).string = "No ads at the moment";
+                    toastLabel.getComponent(cc.Label).string = "Sorry, no ads available at the moment. Please try again later!";
                     cc.Tween.stopAllByTarget(toast);
                     toast.opacity = 255;
                     cc.tween(toast).to(0.15, { scale: 1.2 }).to(0.15, { scale: 1 }).delay(0.5).to(0.5, { opacity: 0 }).call(function () {

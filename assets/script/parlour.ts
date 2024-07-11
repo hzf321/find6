@@ -91,6 +91,6 @@ export default class parlour extends cc.Component {
 
     onClick_blueBook() {
         findControl.findSoundTool.commonBtnClick();
-        findControl.findResUtil.showToast("The feature is not available yet");
+        findControl.findResUtil.showToast("To unlock, conquer the preceding level first!");
     }
 }

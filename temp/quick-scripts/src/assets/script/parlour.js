@@ -91,7 +91,7 @@ var parlour = /** @class */ (function (_super) {
     };
     parlour.prototype.onClick_blueBook = function () {
         findControl_1.findControl.findSoundTool.commonBtnClick();
-        findControl_1.findControl.findResUtil.showToast("The feature is not available yet");
+        findControl_1.findControl.findResUtil.showToast("To unlock, conquer the preceding level first!");
     };
     __decorate([
         property(cc.Node)

@@ -639,20 +639,10 @@
     "meta": 1720576211239,
     "relativePath": "script/dialog"
   },
-  "01474d54-1aeb-41c1-acb7-27f64beabdca": {
-    "asset": 1720426696000,
-    "meta": 1720576211494,
-    "relativePath": "script/parlour.ts"
-  },
   "be981786-9598-4071-b157-c0cdd4154341": {
     "asset": 1719977704000,
     "meta": 1720576211497,
     "relativePath": "script/prefeb"
-  },
-  "3f30a6b5-c115-436c-bafc-2e08b496dcf6": {
-    "asset": 1720575868000,
-    "meta": 1720576211551,
-    "relativePath": "script/register.ts"
   },
   "b6f2e2e7-193c-402d-9a08-5b460d2e4700": {
     "asset": 1720426328000,
@@ -893,11 +883,6 @@
     "asset": 1720150274000,
     "meta": 1720576211684,
     "relativePath": "img/happy/happy_imgbg.png"
-  },
-  "18f40745-bc26-4c8b-bb34-5e374f59713a": {
-    "asset": 1720148748000,
-    "meta": 1720576211686,
-    "relativePath": "img/happy/happy_blue_book.png"
   },
   "a866a34b-dbcf-43a8-b692-a893e2115f00": {
     "asset": 1720148748000,
@@ -1560,8 +1545,8 @@
     "relativePath": "resources/prefeb/newhand.prefab"
   },
   "1154cf02-9b6a-4026-8017-dffe1523eac0": {
-    "asset": 1716520506000,
-    "meta": 1720576212280,
+    "asset": 1720666280331,
+    "meta": 1720666280336,
     "relativePath": "resources/prefeb/toast.prefab"
   },
   "3be3d2e1-b3da-4120-aacd-bb4b69a00ba9": {
@@ -1673,5 +1658,30 @@
     "asset": 1720593815741,
     "meta": 1720593817868,
     "relativePath": "script/tool/findGameData.ts"
+  },
+  "01474d54-1aeb-41c1-acb7-27f64beabdca": {
+    "asset": 1720665943771,
+    "meta": 1720666014695,
+    "relativePath": "script/parlour.ts"
+  },
+  "3f30a6b5-c115-436c-bafc-2e08b496dcf6": {
+    "asset": 1720665886740,
+    "meta": 1720666014746,
+    "relativePath": "script/register.ts"
+  },
+  "e142b51c-6e9a-498b-b0e0-b0551a3be88e": {
+    "asset": 1720666070793,
+    "meta": 1720666070813,
+    "relativePath": "img/happy/lock icon.png"
+  },
+  "18f40745-bc26-4c8b-bb34-5e374f59713a": {
+    "asset": 1720666103258,
+    "meta": 1720666103285,
+    "relativePath": "img/happy/happy_blue_book.png"
+  },
+  "cf5bd48c-db6e-42c9-9d8d-b3f5069ebed9": {
+    "asset": 1720666128198,
+    "meta": 1720666136022,
+    "relativePath": "img/common/peace_tishi.png"
   }
 }
