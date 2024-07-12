@@ -22,8 +22,6 @@
     <false/>
     <key>LSRequiresIPhoneOS</key>
     <true/>
-    <key>NSUserTrackingUsageDescription</key>
-    <string>The identifier will be used for delivering personalized advertisements to you</string>
     <key>LSApplicationCategoryType</key>
     <string/>
     <key>UILaunchStoryboardName</key>
