@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "simliff",
+    "texture": "e1da497f-b785-4883-b815-9abf55858923",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      284,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      284,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

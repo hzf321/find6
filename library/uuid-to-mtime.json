@@ -650,8 +650,8 @@
     "relativePath": "script/tool"
   },
   "f18b5444-ded2-407d-9e90-d08aa8d22f46": {
-    "asset": 1720519028000,
-    "meta": 1720750546182,
+    "asset": 1720776558229,
+    "meta": 1720776558233,
     "relativePath": "scene/host.fire"
   },
   "c44884e9-3c69-4ddf-ac5f-92e2b480b79b": {
@@ -948,11 +948,6 @@
     "asset": 1720168850000,
     "meta": 1720750546376,
     "relativePath": "img/ocean/ocean_sound.png"
-  },
-  "979fe18d-0127-4446-acb3-c29154f635c6": {
-    "asset": 1720162954000,
-    "meta": 1720750546383,
-    "relativePath": "img/smile/smile_btn.png"
   },
   "f27755c6-2fbe-441b-9d1d-2c71cf73222a": {
     "asset": 1716518714000,
@@ -1525,8 +1520,8 @@
     "relativePath": "resources/prefeb/BookPop.prefab"
   },
   "58b0d579-b938-4e32-8ae7-bab4958c6a6c": {
-    "asset": 1720421696000,
-    "meta": 1720750546942,
+    "asset": 1720776915964,
+    "meta": 1720776915978,
     "relativePath": "resources/prefeb/MoonPop.prefab"
   },
   "31fb9787-f1ca-41df-bc79-78442d2b82ab": {
@@ -1649,11 +1644,6 @@
     "meta": 1720750547808,
     "relativePath": "resources/sound/bgm.mp3"
   },
-  "73ed6fd0-771c-4efa-921b-4634be158fce": {
-    "asset": 1720688610000,
-    "meta": 1720750546081,
-    "relativePath": "script/host.ts"
-  },
   "01474d54-1aeb-41c1-acb7-27f64beabdca": {
     "asset": 1720665944000,
     "meta": 1720750546107,
@@ -1680,8 +1670,18 @@
     "relativePath": "img/common/peace_tishi.png"
   },
   "57cab89b-95bc-4e07-b2ad-915e8c8991bf": {
-    "asset": 1720755826503,
-    "meta": 1720755832146,
+    "asset": 1720776392052,
+    "meta": 1720776403518,
     "relativePath": "script/tool/findGameData.ts"
+  },
+  "73ed6fd0-771c-4efa-921b-4634be158fce": {
+    "asset": 1720776534784,
+    "meta": 1720776536830,
+    "relativePath": "script/host.ts"
+  },
+  "e1da497f-b785-4883-b815-9abf55858923": {
+    "asset": 1720776851264,
+    "meta": 1720776898714,
+    "relativePath": "img/smile/simliff.png"
   }
 }

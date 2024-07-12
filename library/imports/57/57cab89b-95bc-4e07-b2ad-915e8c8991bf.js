@@ -42,6 +42,8 @@ var findGameData = /** @class */ (function () {
     };
     //看广告
     findGameData.prototype.showVideo = function (finishCb) {
+        finishCb();
+        return;
         console.log("android------------看广告");
         if (cc.sys.isNative && cc.sys.OS_ANDROID == cc.sys.os) {
             jsb.reflection.callStaticMethod("org/cocos2dx/javascript/AppActivity", "showShiPing", "()V");

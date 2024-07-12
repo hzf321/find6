@@ -30,13 +30,13 @@
       "assetMtime": 1720162954000,
       "metaMtime": 1720750546390
     },
-    "d2b67c33-8cfd-4cfa-9e42-62100486a8b1": {
-      "assetMtime": 1720162954000,
-      "metaMtime": 1720750546383
+    "d51db4ad-87ba-4e30-80ff-6d96ede864b3": {
+      "assetMtime": 1720776851264,
+      "metaMtime": 1720776898714
     },
-    "979fe18d-0127-4446-acb3-c29154f635c6": {
-      "assetMtime": 1720162954000,
-      "metaMtime": 1720750546383
+    "e1da497f-b785-4883-b815-9abf55858923": {
+      "assetMtime": 1720776851264,
+      "metaMtime": 1720776898714
     }
   },
   "result": {
@@ -72,7 +72,7 @@
             "name": "smile_icon",
             "uuid": "6b65ac51-95e1-40e4-a9e1-0cb2aa5cba88",
             "textureUuid": "f664b53e-347f-4d89-b505-a3987716f74a",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751712837_image_1.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720777124612_image_1.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -92,10 +92,10 @@
             "rotatedHeight": 147
           },
           {
-            "name": "smile_btn",
-            "uuid": "d2b67c33-8cfd-4cfa-9e42-62100486a8b1",
-            "textureUuid": "979fe18d-0127-4446-acb3-c29154f635c6",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751712837_image_3.png",
+            "name": "simliff",
+            "uuid": "d51db4ad-87ba-4e30-80ff-6d96ede864b3",
+            "textureUuid": "e1da497f-b785-4883-b815-9abf55858923",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720777124612_image_3.png",
             "trim": {
               "x": 3,
               "y": 150,
@@ -108,7 +108,7 @@
             "rawHeight": 76,
             "width": 290,
             "height": 82,
-            "originalPath": "/Users/aw/Desktop/find6/library/imports/97/979fe18d-0127-4446-acb3-c29154f635c6.png",
+            "originalPath": "/Users/aw/Desktop/find6/library/imports/e1/e1da497f-b785-4883-b815-9abf55858923.png",
             "x": 0,
             "y": 147,
             "rotated": true,
@@ -119,7 +119,7 @@
             "name": "smile_btn2",
             "uuid": "5d1e34de-bddb-41fd-900f-e169e7854d49",
             "textureUuid": "d8cd55d4-11e0-42ad-a157-f032643b66ab",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751712837_image_0.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720777124609_image_0.png",
             "trim": {
               "x": 85,
               "y": 150,
@@ -143,7 +143,7 @@
             "name": "smile_title",
             "uuid": "ade8055a-8e5c-42be-b6b7-7442009d7ac6",
             "textureUuid": "f3376ef7-05ca-4d6c-ad6d-11e022d4c116",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751712837_image_2.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720777124612_image_2.png",
             "trim": {
               "x": 151,
               "y": 150,

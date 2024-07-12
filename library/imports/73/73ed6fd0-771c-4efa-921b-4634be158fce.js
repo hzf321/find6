@@ -243,12 +243,12 @@ var host = /** @class */ (function (_super) {
     };
     host.prototype.changeQiPaoNum = function () {
         if (findGameData_1.fgData.userData.tishiNum > 0) {
-            this.tishi_qipao.getChildByName("ad_label").active = false;
+            // this.tishi_qipao.getChildByName("ad_label").active = false;
             this.tishi_qipao.getChildByName("num_label").active = true;
             this.tishi_qipao.getChildByName("num_label").getComponent(cc.Label).string = findGameData_1.fgData.userData.tishiNum.toString();
         }
         else {
-            this.tishi_qipao.getChildByName("ad_label").active = true;
+            // this.tishi_qipao.getChildByName("ad_label").active = true;
             this.tishi_qipao.getChildByName("num_label").active = false;
         }
     };

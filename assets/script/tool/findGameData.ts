@@ -49,7 +49,8 @@ class findGameData {
 
     //看广告
     showVideo(finishCb: () => void) {
-       
+        finishCb();
+        return
         console.log("android------------看广告")
         if (cc.sys.isNative && cc.sys.OS_ANDROID == cc.sys.os) {
             jsb.reflection.callStaticMethod("org/cocos2dx/javascript/AppActivity", "showShiPing", "()V");

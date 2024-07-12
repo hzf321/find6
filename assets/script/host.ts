@@ -279,11 +279,11 @@ export default class host extends cc.Component {
 
     changeQiPaoNum() {
         if (fgData.userData.tishiNum > 0) {
-            this.tishi_qipao.getChildByName("ad_label").active = false;
+            // this.tishi_qipao.getChildByName("ad_label").active = false;
             this.tishi_qipao.getChildByName("num_label").active = true;
             this.tishi_qipao.getChildByName("num_label").getComponent(cc.Label).string = fgData.userData.tishiNum.toString();
         } else {
-            this.tishi_qipao.getChildByName("ad_label").active = true;
+            // this.tishi_qipao.getChildByName("ad_label").active = true;
             this.tishi_qipao.getChildByName("num_label").active = false;
         }
     }
