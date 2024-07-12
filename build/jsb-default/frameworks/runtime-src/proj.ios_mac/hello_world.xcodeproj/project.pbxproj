@@ -798,7 +798,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.guqymw.difference;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kcymaefutg.vuntage;
 				PRODUCT_NAME = "Retro Difference";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
@@ -843,7 +843,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.guqymw.difference;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kcymaefutg.vuntage;
 				PRODUCT_NAME = "Retro Difference";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
