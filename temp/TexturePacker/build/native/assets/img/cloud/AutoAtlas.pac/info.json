@@ -4,31 +4,31 @@
   "mtimes": {
     "b5922191-7c2c-4b47-82dc-5957066ae2fe": {
       "assetMtime": 1715847014000,
-      "metaMtime": 1720576211583
+      "metaMtime": 1720750546200
     },
     "1c89c756-e00b-4705-afc7-a420b184e52a": {
       "assetMtime": 1720169386000,
-      "metaMtime": 1720576211602
+      "metaMtime": 1720750546228
     },
     "92703a1e-7700-463f-8442-f5c363c95110": {
       "assetMtime": 1720169386000,
-      "metaMtime": 1720576211602
+      "metaMtime": 1720750546228
     },
     "86590ee3-cc08-41af-bf2a-210abb0751c8": {
       "assetMtime": 1720169386000,
-      "metaMtime": 1720576211598
+      "metaMtime": 1720750546223
     },
     "28273ac9-a9c1-4419-a365-43908f3462a5": {
       "assetMtime": 1720169386000,
-      "metaMtime": 1720576211598
+      "metaMtime": 1720750546223
     },
     "a144d91f-3a94-4997-aac4-23e9300576f0": {
       "assetMtime": 1720169398000,
-      "metaMtime": 1720576211600
+      "metaMtime": 1720750546229
     },
     "88eda6e8-bdf3-4af0-bd5c-f9ed69b2fed7": {
       "assetMtime": 1720169398000,
-      "metaMtime": 1720576211600
+      "metaMtime": 1720750546229
     }
   },
   "result": {
@@ -64,7 +64,7 @@
             "name": "cloud_des",
             "uuid": "a144d91f-3a94-4997-aac4-23e9300576f0",
             "textureUuid": "88eda6e8-bdf3-4af0-bd5c-f9ed69b2fed7",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576524769_image_2.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751711597_image_2.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -88,7 +88,7 @@
             "name": "cloud_title",
             "uuid": "1c89c756-e00b-4705-afc7-a420b184e52a",
             "textureUuid": "92703a1e-7700-463f-8442-f5c363c95110",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576524769_image_0.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751711596_image_0.png",
             "trim": {
               "x": 91,
               "y": 3,
@@ -112,7 +112,7 @@
             "name": "cloud_btn",
             "uuid": "86590ee3-cc08-41af-bf2a-210abb0751c8",
             "textureUuid": "28273ac9-a9c1-4419-a365-43908f3462a5",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576524769_image_1.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751711597_image_1.png",
             "trim": {
               "x": 91,
               "y": 474,

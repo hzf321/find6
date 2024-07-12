@@ -500,1188 +500,1188 @@
     "relativePath": "model/primitives.fbx"
   },
   "9a3e8140-123b-4221-a5dc-55e29209cbe1": {
-    "asset": 1720169836000,
-    "meta": 1720576211223,
+    "asset": 1720668488000,
+    "meta": 1720750545817,
     "relativePath": "anim"
   },
   "215dd262-4525-4f89-a460-8568f7e3028d": {
-    "asset": 1720422480000,
-    "meta": 1720576211224,
+    "asset": 1720668490000,
+    "meta": 1720750545818,
     "relativePath": "img"
   },
   "84e20cf7-a7ba-4889-86de-debbba43d121": {
-    "asset": 1719977702000,
-    "meta": 1720576211224,
+    "asset": 1720668490000,
+    "meta": 1720750545818,
     "relativePath": "prefeb"
   },
   "435fff1b-bbdb-4d40-96fb-6085a1260013": {
-    "asset": 1720430094000,
-    "meta": 1720576211225,
+    "asset": 1720668490000,
+    "meta": 1720750545819,
     "relativePath": "resources"
   },
   "e3c8d683-91df-4f5b-95f9-b84591ce7662": {
-    "asset": 1720421788000,
-    "meta": 1720576211225,
+    "asset": 1720668490000,
+    "meta": 1720750545819,
     "relativePath": "scene"
   },
   "889f8bea-5631-4c0b-ad30-ea71599d6677": {
-    "asset": 1720423118000,
-    "meta": 1720576211226,
+    "asset": 1720688344000,
+    "meta": 1720750545820,
     "relativePath": "script"
   },
   "e0b14708-ea05-40e2-9776-7c81d3f7f5de": {
-    "asset": 1720169840000,
-    "meta": 1720576211226,
+    "asset": 1720668488000,
+    "meta": 1720750545823,
     "relativePath": "anim/aixing"
   },
   "8d5c5def-6c6b-425f-91d2-861f61c858a4": {
-    "asset": 1720410302000,
-    "meta": 1720576211227,
+    "asset": 1720668488000,
+    "meta": 1720750545824,
     "relativePath": "img/anim"
   },
   "8e2215cf-6a73-4e5b-afad-e00d277e5375": {
-    "asset": 1720422452000,
-    "meta": 1720576211228,
+    "asset": 1720668488000,
+    "meta": 1720750545825,
     "relativePath": "img/cloud"
   },
   "7f44dbc3-04d7-4cdc-b1bd-d95ebb167b95": {
-    "asset": 1720422866000,
-    "meta": 1720576211228,
+    "asset": 1720668488000,
+    "meta": 1720750545826,
     "relativePath": "img/common"
   },
   "25da179d-8ce6-48af-821b-5df35d155273": {
-    "asset": 1720422276000,
-    "meta": 1720576211229,
+    "asset": 1720668488000,
+    "meta": 1720750545826,
     "relativePath": "img/dream"
   },
   "0b3231dc-6aaa-4a3f-989d-69ffa35b9a05": {
-    "asset": 1720422916000,
-    "meta": 1720576211229,
+    "asset": 1720668490000,
+    "meta": 1720750545827,
     "relativePath": "img/earth"
   },
   "b61355d0-cd0e-4505-97f6-4a0494fa47f1": {
-    "asset": 1720422428000,
-    "meta": 1720576211230,
+    "asset": 1720750300000,
+    "meta": 1720750545828,
     "relativePath": "img/happy"
   },
   "65f11e3c-f4ed-48e4-ab6c-d19661950526": {
-    "asset": 1720422196000,
-    "meta": 1720576211230,
+    "asset": 1720668490000,
+    "meta": 1720750545829,
     "relativePath": "img/ocean"
   },
   "73e31fbc-3cb6-4275-bf79-5c76823d2a1c": {
-    "asset": 1720422218000,
-    "meta": 1720576211230,
+    "asset": 1720668490000,
+    "meta": 1720750545829,
     "relativePath": "img/smile"
   },
   "c66eb77d-4c0e-43a6-bc16-3a4446cf49d6": {
-    "asset": 1720422242000,
-    "meta": 1720576211231,
+    "asset": 1720668490000,
+    "meta": 1720750545830,
     "relativePath": "img/tiger"
   },
   "a7a79391-9cbd-4555-ad0e-2f773515309b": {
-    "asset": 1720149108000,
-    "meta": 1720576211231,
+    "asset": 1720750158000,
+    "meta": 1720750545830,
     "relativePath": "img/tranquility"
   },
   "f57a9111-b29e-4767-95de-2b0ac995447c": {
-    "asset": 1720425290000,
-    "meta": 1720576211232,
+    "asset": 1720668490000,
+    "meta": 1720750545831,
     "relativePath": "prefeb/game"
   },
   "d72621ef-63a9-479c-b784-d4c2afff9fcf": {
     "asset": 1717468742000,
-    "meta": 1720576211233,
+    "meta": 1720750545832,
     "relativePath": "anim/guide2.anim"
   },
   "252eb0dc-dec6-416f-9250-f9dcbcff8ec7": {
-    "asset": 1719977702000,
-    "meta": 1720576211233,
+    "asset": 1720668490000,
+    "meta": 1720750545833,
     "relativePath": "prefeb/hall"
   },
   "f466ee80-4dd7-49c8-9155-0481ce7695ee": {
     "asset": 1717468530000,
-    "meta": 1720576211234,
+    "meta": 1720750545833,
     "relativePath": "anim/guide1.anim"
   },
   "71cb65b1-0044-4c92-b629-02d0ced9b964": {
-    "asset": 1720508286000,
-    "meta": 1720576211234,
+    "asset": 1720668490000,
+    "meta": 1720750545834,
     "relativePath": "resources/discoverImg"
   },
   "6641e03a-5104-4b13-a1bb-c66f66390831": {
     "asset": 1715830730000,
-    "meta": 1720576211235,
+    "meta": 1720750545834,
     "relativePath": "anim/zhuan360.anim"
   },
   "0a15aca5-e45e-42d3-a3b6-0424d401bd96": {
-    "asset": 1720508280000,
-    "meta": 1720576211235,
+    "asset": 1720668490000,
+    "meta": 1720750545835,
     "relativePath": "resources/fineImg"
   },
   "34aa0a8d-3a06-43c9-a495-48ca8c65162f": {
-    "asset": 1720519026000,
-    "meta": 1720576211236,
+    "asset": 1720668490000,
+    "meta": 1720750545835,
     "relativePath": "resources/imgConfig"
   },
   "8179f048-37de-4e91-a255-0d506b575092": {
-    "asset": 1720507706000,
-    "meta": 1720576211236,
+    "asset": 1720668490000,
+    "meta": 1720750545836,
     "relativePath": "resources/prefeb"
   },
   "b6a5c32a-8e5f-4f24-b2b2-0f425ca81010": {
-    "asset": 1720513960000,
-    "meta": 1720576211237,
+    "asset": 1720668490000,
+    "meta": 1720750545837,
     "relativePath": "resources/sound"
   },
   "ace42f3f-01ba-4c70-b387-0e5e3f998b93": {
-    "asset": 1720426230000,
-    "meta": 1720576211239,
+    "asset": 1720668490000,
+    "meta": 1720750545838,
     "relativePath": "script/dialog"
   },
   "be981786-9598-4071-b157-c0cdd4154341": {
-    "asset": 1719977704000,
-    "meta": 1720576211497,
+    "asset": 1720668490000,
+    "meta": 1720750546110,
     "relativePath": "script/prefeb"
   },
   "b6f2e2e7-193c-402d-9a08-5b460d2e4700": {
-    "asset": 1720426328000,
-    "meta": 1720576211551,
+    "asset": 1720688344000,
+    "meta": 1720750546164,
     "relativePath": "script/tool"
   },
   "f18b5444-ded2-407d-9e90-d08aa8d22f46": {
     "asset": 1720519028000,
-    "meta": 1720576211566,
+    "meta": 1720750546182,
     "relativePath": "scene/host.fire"
   },
   "c44884e9-3c69-4ddf-ac5f-92e2b480b79b": {
-    "asset": 1720667795929,
-    "meta": 1720667795936,
+    "asset": 1720750300000,
+    "meta": 1720750546180,
     "relativePath": "scene/parlour.fire"
   },
   "2cea8f23-154b-459b-a89a-23e7d07d6b63": {
-    "asset": 1720427088000,
-    "meta": 1720576211569,
+    "asset": 1720750240000,
+    "meta": 1720750546185,
     "relativePath": "scene/register.fire"
   },
   "b5922191-7c2c-4b47-82dc-5957066ae2fe": {
     "asset": 1715847014000,
-    "meta": 1720576211583,
+    "meta": 1720750546200,
     "relativePath": "img/cloud/AutoAtlas.pac"
   },
   "d871604b-181f-4291-ac1f-a10d3d1f1fd4": {
     "asset": 1720410302000,
-    "meta": 1720576211586,
+    "meta": 1720750546207,
     "relativePath": "img/anim/gouzi.atlas"
   },
   "eebc51e5-1191-4fbe-96c0-f72b07badf8f": {
     "asset": 1720169840000,
-    "meta": 1720576211586,
+    "meta": 1720750546206,
     "relativePath": "anim/aixing/aixin.atlas"
   },
   "c0c9e78c-f855-41f9-b250-7206e10c4289": {
     "asset": 1720169840000,
-    "meta": 1720576211591,
+    "meta": 1720750546218,
     "relativePath": "anim/aixing/aixin.png"
   },
   "52b5b497-426b-47d0-bb2f-2c22c029c479": {
     "asset": 1720410302000,
-    "meta": 1720576211593,
+    "meta": 1720750546220,
     "relativePath": "img/anim/gouzi.png"
   },
   "713cd244-2f47-47f4-9a22-c312ea486a66": {
     "asset": 1715765250000,
-    "meta": 1720576211595,
+    "meta": 1720750546222,
     "relativePath": "img/anim/img_lizi.png"
   },
   "28273ac9-a9c1-4419-a365-43908f3462a5": {
     "asset": 1720169386000,
-    "meta": 1720576211598,
+    "meta": 1720750546223,
     "relativePath": "img/cloud/cloud_btn.png"
   },
   "88eda6e8-bdf3-4af0-bd5c-f9ed69b2fed7": {
     "asset": 1720169398000,
-    "meta": 1720576211600,
+    "meta": 1720750546229,
     "relativePath": "img/cloud/cloud_des.png"
   },
   "92703a1e-7700-463f-8442-f5c363c95110": {
     "asset": 1720169386000,
-    "meta": 1720576211602,
+    "meta": 1720750546228,
     "relativePath": "img/cloud/cloud_title.png"
   },
   "184f3782-0a0d-4351-b3e7-07d4a9936ce6": {
     "asset": 1720422858000,
-    "meta": 1720576211604,
+    "meta": 1720750546240,
     "relativePath": "img/common/peace_beauty_1.png"
   },
   "155e7395-5161-4e24-854e-3ea51d033cd0": {
     "asset": 1716964490000,
-    "meta": 1720576211607,
+    "meta": 1720750546238,
     "relativePath": "img/common/peace_beauty_2.png"
   },
   "16ce2fbc-3cc0-4e6c-b5ed-1e5c1e74f6e0": {
     "asset": 1715765250000,
-    "meta": 1720576213103,
+    "meta": 1720750547825,
     "relativePath": "img/anim/particle_tuowei.plist"
   },
   "2c988eee-5476-49f9-993d-de418af042cc": {
     "asset": 1720162888000,
-    "meta": 1720576211611,
+    "meta": 1720750546244,
     "relativePath": "img/common/peace_close.png"
   },
   "d559d6bc-a9a0-4a0f-bde5-e58644c29529": {
     "asset": 1716963412000,
-    "meta": 1720576211613,
+    "meta": 1720750546245,
     "relativePath": "img/common/peace_continue.png"
   },
   "fe6c8fd1-b32d-4c50-b0d5-faa2e0272bf4": {
     "asset": 1720162122000,
-    "meta": 1720576211615,
+    "meta": 1720750546242,
     "relativePath": "img/common/peace_bor.png"
   },
   "bba80b1a-4f44-4ef4-88c4-fe6980eee698": {
     "asset": 1720163960000,
-    "meta": 1720576211621,
+    "meta": 1720750546264,
     "relativePath": "img/common/peace_qipao.png"
   },
   "f5540587-d2ec-4987-b092-f8cef2e8db30": {
     "asset": 1720169840000,
-    "meta": 1720576213106,
+    "meta": 1720750547827,
     "relativePath": "anim/aixing/aixin.json"
   },
   "46b7b140-c5b0-4e3e-bcbe-b4b27518d80d": {
     "asset": 1720410302000,
-    "meta": 1720576213108,
+    "meta": 1720750547828,
     "relativePath": "img/anim/gouzi.json"
   },
   "9606e21d-0d12-47f7-ad73-1b0cbbbb40d9": {
     "asset": 1720422866000,
-    "meta": 1720576211626,
+    "meta": 1720750546268,
     "relativePath": "img/common/peace_select.png"
   },
   "85801eca-b4e7-4ada-95db-93630f93b3b1": {
     "asset": 1720162906000,
-    "meta": 1720576211627,
+    "meta": 1720750546275,
     "relativePath": "img/common/peace_dialogbg.png"
   },
   "ee24329a-5bc6-42ab-82c9-17b455c1ad5c": {
     "asset": 1720168732000,
-    "meta": 1720576211633,
+    "meta": 1720750546284,
     "relativePath": "img/common/peace_dialogbigbg.png"
   },
   "e6f44706-1290-4c47-9a06-2dbc243ac8f4": {
     "asset": 1715846998000,
-    "meta": 1720576211637,
+    "meta": 1720750546286,
     "relativePath": "img/earth/AutoAtlas.pac"
   },
   "6e4f97d5-99a9-4856-8945-2d7b38c7a489": {
     "asset": 1720162052000,
-    "meta": 1720576211634,
+    "meta": 1720750546285,
     "relativePath": "img/dream/dream_dengpao.png"
   },
   "5b8b03e1-1d7b-4202-97bf-d76d89f129ea": {
     "asset": 1720162052000,
-    "meta": 1720576211636,
+    "meta": 1720750546287,
     "relativePath": "img/dream/dream_huangjingdu .png"
   },
   "4b8c3957-ebe7-4a59-811d-ec28aa0c376e": {
     "asset": 1720149200000,
-    "meta": 1720576211638,
+    "meta": 1720750546277,
     "relativePath": "img/common/peace_bg.png"
   },
   "2fd8cd6b-86d2-47ab-ab80-bfbdfa65c709": {
     "asset": 1720162052000,
-    "meta": 1720576211640,
+    "meta": 1720750546300,
     "relativePath": "img/dream/dream_lvjingdu.png"
   },
   "83122e22-d912-45e4-8e0b-7c12499d4c8f": {
     "asset": 1720162052000,
-    "meta": 1720576211643,
+    "meta": 1720750546287,
     "relativePath": "img/dream/dream_level.png"
   },
   "b16eae65-4a88-42d1-95ee-3d3ba7dbc05a": {
     "asset": 1720422916000,
-    "meta": 1720576211649,
+    "meta": 1720750546304,
     "relativePath": "img/earth/earth_err.png"
   },
   "ba7bea5b-c666-4d27-ae10-2c4a18d5ee70": {
     "asset": 1720162052000,
-    "meta": 1720576211650,
+    "meta": 1720750546296,
     "relativePath": "img/dream/dream_title.png"
   },
   "f7c8f1b1-f3d8-44d9-ac89-3bd3d636402f": {
     "asset": 1720162052000,
-    "meta": 1720576211651,
+    "meta": 1720750546301,
     "relativePath": "img/dream/dream_tuoyuan.png"
   },
   "a5958738-314c-48a6-bb88-4bfc2c51f46f": {
     "asset": 1720170848000,
-    "meta": 1720576211652,
+    "meta": 1720750546302,
     "relativePath": "img/earth/earth_exit.png"
   },
   "6f426183-ed7b-4377-8706-9a522bdfa622": {
     "asset": 1716966482000,
-    "meta": 1720576211658,
+    "meta": 1720750546305,
     "relativePath": "img/earth/earth_find.png"
   },
   "511c23ea-dcd9-4eaf-8318-0c0677e99c46": {
     "asset": 1715846996000,
-    "meta": 1720576211663,
+    "meta": 1720750546319,
     "relativePath": "img/happy/AutoAtlas.pac"
   },
   "936def9a-9243-4148-92e1-12ea900e284f": {
     "asset": 1720165350000,
-    "meta": 1720576211659,
+    "meta": 1720750546320,
     "relativePath": "img/earth/earth_heart.png"
   },
   "1382d93e-7718-4cfb-9daf-d6e128f18a1c": {
     "asset": 1720165350000,
-    "meta": 1720576211662,
+    "meta": 1720750546317,
     "relativePath": "img/earth/earth_icon_heart2.png"
   },
   "300b6261-6501-444d-a2d1-3c50ca5b18a6": {
     "asset": 1715416186000,
-    "meta": 1720576211664,
+    "meta": 1720750546318,
     "relativePath": "img/earth/earth_lvye.png"
   },
   "1a0af009-2b47-450b-a1eb-83c5e08d2ff4": {
     "asset": 1720163940000,
-    "meta": 1720576211664,
+    "meta": 1720750546321,
     "relativePath": "img/earth/earth_pauseicon.png"
   },
   "ce3afc1f-15da-4c45-97d3-ce82a464716d": {
     "asset": 1720165976000,
-    "meta": 1720576211669,
+    "meta": 1720750546325,
     "relativePath": "img/earth/earth_imgbg.png"
   },
   "b1cc6880-dfee-4d0c-b739-3c6c0d68ac04": {
     "asset": 1720163940000,
-    "meta": 1720576211671,
+    "meta": 1720750546322,
     "relativePath": "img/earth/earth_tishi.png"
   },
   "22acc70c-6f97-4303-b98c-bb64b955e06e": {
     "asset": 1715830688000,
-    "meta": 1720576211676,
+    "meta": 1720750546335,
     "relativePath": "img/earth/earth_tishiImg.png"
   },
   "66348f1e-62c1-47f7-a19b-8ef10fb1d203": {
     "asset": 1720150274000,
-    "meta": 1720576211677,
+    "meta": 1720750546336,
     "relativePath": "img/happy/happy_border.png"
   },
   "835838c0-8008-4646-a565-8889ed49c324": {
     "asset": 1720150274000,
-    "meta": 1720576211680,
+    "meta": 1720750546336,
     "relativePath": "img/happy/happy_iconsuo.png"
   },
   "1f243b51-6f38-44af-9007-c10b75395de7": {
     "asset": 1715846988000,
-    "meta": 1720576211686,
+    "meta": 1720750546349,
     "relativePath": "img/ocean/AutoAtlas.pac"
   },
   "ae1f8857-713e-4efe-9a80-21fce114d75f": {
     "asset": 1720150274000,
-    "meta": 1720576211684,
+    "meta": 1720750546343,
     "relativePath": "img/happy/happy_imgbg.png"
   },
   "a866a34b-dbcf-43a8-b692-a893e2115f00": {
-    "asset": 1720148748000,
-    "meta": 1720576211688,
+    "asset": 1720750300000,
+    "meta": 1720750546352,
     "relativePath": "img/happy/happy_green_book.png"
   },
   "166cfccb-9814-4cd2-aa38-e2a9dfc20a19": {
     "asset": 1720151436000,
-    "meta": 1720576211689,
+    "meta": 1720750546350,
     "relativePath": "img/happy/happy_itemmask.png"
   },
   "20b5a922-629f-44f8-bc72-bf2d132bdf01": {
     "asset": 1716953032000,
-    "meta": 1720576211690,
+    "meta": 1720750546348,
     "relativePath": "img/happy/happy_radiant_setting.png"
   },
   "fa21f4c8-c607-4944-9266-feb22fe5c40f": {
     "asset": 1720148748000,
-    "meta": 1720576211699,
+    "meta": 1720750546357,
     "relativePath": "img/happy/happy_title.png"
   },
   "81dd98ee-4c04-49eb-8f5c-afb43b64a493": {
     "asset": 1720168800000,
-    "meta": 1720576211700,
+    "meta": 1720750546366,
     "relativePath": "img/ocean/ocean_off.png"
   },
   "4b13cd00-3f89-4a89-a3c6-8c09f73104f2": {
     "asset": 1720168800000,
-    "meta": 1720576211701,
+    "meta": 1720750546367,
     "relativePath": "img/ocean/ocean_ok.png"
   },
   "4bf8768f-96a4-49b3-8148-9c457d10fc1e": {
     "asset": 1715846986000,
-    "meta": 1720576211706,
+    "meta": 1720750546370,
     "relativePath": "img/smile/AutoAtlas.pac"
   },
   "4c4c9f1c-3573-4ec1-b2e0-036831ee3584": {
     "asset": 1720168850000,
-    "meta": 1720576211703,
+    "meta": 1720750546364,
     "relativePath": "img/ocean/ocean_music.png"
   },
   "53531fb3-c955-4dac-84d2-f038a773d7ea": {
     "asset": 1720168800000,
-    "meta": 1720576211705,
+    "meta": 1720750546369,
     "relativePath": "img/ocean/ocean_on.png"
   },
   "830803bc-16b6-4f9b-a57d-7cae7775be25": {
     "asset": 1716964680000,
-    "meta": 1720576211713,
+    "meta": 1720750546374,
     "relativePath": "img/ocean/ocean_pause.png"
   },
   "ada109cc-299a-4157-a681-bc0cf26799ca": {
     "asset": 1720168818000,
-    "meta": 1720576211716,
+    "meta": 1720750546377,
     "relativePath": "img/ocean/ocean_title.png"
   },
   "4f3db73f-175c-4a54-a84e-cbce93353f76": {
     "asset": 1715847002000,
-    "meta": 1720576211719,
+    "meta": 1720750546381,
     "relativePath": "img/tiger/AutoAtlas.pac"
   },
   "1ef16658-9ecd-41d2-9a55-ba4806b2fc17": {
     "asset": 1720168850000,
-    "meta": 1720576211717,
+    "meta": 1720750546376,
     "relativePath": "img/ocean/ocean_sound.png"
   },
   "979fe18d-0127-4446-acb3-c29154f635c6": {
     "asset": 1720162954000,
-    "meta": 1720576211718,
+    "meta": 1720750546383,
     "relativePath": "img/smile/smile_btn.png"
   },
   "f27755c6-2fbe-441b-9d1d-2c71cf73222a": {
     "asset": 1716518714000,
-    "meta": 1720576211720,
+    "meta": 1720750546381,
     "relativePath": "img/ocean/ocean_zhengodng.png"
   },
   "d8cd55d4-11e0-42ad-a157-f032643b66ab": {
     "asset": 1716964248000,
-    "meta": 1720576211726,
+    "meta": 1720750546388,
     "relativePath": "img/smile/smile_btn2.png"
   },
   "1ade1819-4666-41c0-90b7-713add03720d": {
     "asset": 1715846992000,
-    "meta": 1720576211730,
+    "meta": 1720750546391,
     "relativePath": "img/tranquility/AutoAtlas.pac"
   },
   "68d83935-6794-4fe7-bf59-df2bb182878f": {
     "asset": 1720169492000,
-    "meta": 1720576211728,
+    "meta": 1720750546398,
     "relativePath": "img/tiger/tiger_btn.png"
   },
   "3eba4c4d-15f7-4c28-b1fa-39c5033c62d3": {
     "asset": 1720169492000,
-    "meta": 1720576211729,
+    "meta": 1720750546399,
     "relativePath": "img/tiger/tiger_des.png"
   },
   "f3376ef7-05ca-4d6c-ad6d-11e022d4c116": {
     "asset": 1720162954000,
-    "meta": 1720576211731,
+    "meta": 1720750546390,
     "relativePath": "img/smile/smile_title.png"
   },
   "f664b53e-347f-4d89-b505-a3987716f74a": {
     "asset": 1720162954000,
-    "meta": 1720576211732,
+    "meta": 1720750546392,
     "relativePath": "img/smile/smile_icon.png"
   },
   "54a21bd0-806d-4535-ac88-4aaefefbfcb5": {
     "asset": 1720150262000,
-    "meta": 1720576211737,
+    "meta": 1720750546389,
     "relativePath": "img/happy/happy_scrollview_di.png"
   },
   "cf9c66b9-843a-42b6-ad9d-5bb0de52fd22": {
     "asset": 1720169492000,
-    "meta": 1720576211739,
+    "meta": 1720750546400,
     "relativePath": "img/tiger/tiger_exitBtn.png"
   },
   "5df219a2-6ee3-449a-a467-2bd072b76e2e": {
     "asset": 1720147540000,
-    "meta": 1720576211740,
+    "meta": 1720750546401,
     "relativePath": "img/tranquility/tranquility_bar_di.png"
   },
   "a32c40c5-c3df-412a-994a-18cf1411dd69": {
     "asset": 1720422918000,
-    "meta": 1720576211749,
+    "meta": 1720750546414,
     "relativePath": "prefeb/game/find6_cuowu.prefab"
   },
   "408cac22-b7fa-4144-8ab7-ddd2efe091f2": {
     "asset": 1720147540000,
-    "meta": 1720576211744,
+    "meta": 1720750546410,
     "relativePath": "img/tranquility/tranquility_bar_yellow.png"
   },
   "40942c53-61ce-4c4a-a3be-851a30479668": {
     "asset": 1720169492000,
-    "meta": 1720576211746,
+    "meta": 1720750546402,
     "relativePath": "img/tiger/tiger_title.png"
   },
   "3aaa3f40-2b05-42d8-855c-7ebef0c29617": {
     "asset": 1717643234000,
-    "meta": 1720576211753,
+    "meta": 1720750546417,
     "relativePath": "prefeb/game/find6_texiao.prefab"
   },
   "359ad352-7e48-4b67-a37f-51d450ecef56": {
     "asset": 1716952672000,
-    "meta": 1720576211750,
+    "meta": 1720750546412,
     "relativePath": "img/tranquility/tranquility_play_text.png"
   },
   "268d0f8b-b5ab-40e7-97d8-5156c4b4255c": {
     "asset": 1715849910000,
-    "meta": 1720576211755,
+    "meta": 1720750546418,
     "relativePath": "prefeb/game/find6_tips.prefab"
   },
   "25755345-524f-4636-a244-674d59d892a3": {
     "asset": 1720147686000,
-    "meta": 1720576211751,
+    "meta": 1720750546415,
     "relativePath": "img/tranquility/tranquility_play.png"
   },
   "236c0217-a233-4296-9cdd-c7a4b6d10ea3": {
     "asset": 1715849902000,
-    "meta": 1720576211757,
+    "meta": 1720750546421,
     "relativePath": "prefeb/game/find6_zhaodao.prefab"
   },
   "51d2e60f-5a4e-4500-8f63-35a6cbfeaa63": {
     "asset": 1720406080000,
-    "meta": 1720576211758,
+    "meta": 1720750546421,
     "relativePath": "prefeb/game/find6_zhaodao2.prefab"
   },
   "a995e65c-37c2-4df6-a0c3-15d1ccafd2df": {
-    "asset": 1720147658000,
-    "meta": 1720576211754,
+    "asset": 1720750158000,
+    "meta": 1720750546419,
     "relativePath": "img/tranquility/tranquility_logo.png"
   },
   "63a22790-4a84-4861-9ef6-0cccef37f562": {
     "asset": 1720161194000,
-    "meta": 1720576211762,
+    "meta": 1720750546423,
     "relativePath": "prefeb/hall/imgitem.prefab"
   },
   "c5f8371b-4328-4879-a57c-e1c1f1d7d730": {
     "asset": 1720147440000,
-    "meta": 1720576211760,
+    "meta": 1720750546413,
     "relativePath": "img/tranquility/tranquility_text.png"
   },
   "f33a47ef-a873-4711-a3aa-75f498a3efc4": {
     "asset": 1720147372000,
-    "meta": 1720576211784,
+    "meta": 1720750546460,
     "relativePath": "img/tranquility/loading_bg.png"
   },
   "31503f19-eb6b-4a54-a088-8d59af377446": {
     "asset": 1720496232000,
-    "meta": 1720576211787,
+    "meta": 1720750546473,
     "relativePath": "resources/discoverImg/discover_10.png"
   },
   "cd85c95b-bdbd-41b1-92ff-1df334fb9ebd": {
     "asset": 1720496232000,
-    "meta": 1720576211789,
+    "meta": 1720750546472,
     "relativePath": "resources/discoverImg/discover_12.png"
   },
   "d576952a-b897-4116-931b-e61d4b9aacca": {
     "asset": 1720496232000,
-    "meta": 1720576211791,
+    "meta": 1720750546496,
     "relativePath": "resources/discoverImg/discover_1.png"
   },
   "4de779f7-0b57-4cac-8166-3b7873e06a16": {
     "asset": 1720496232000,
-    "meta": 1720576211801,
+    "meta": 1720750546474,
     "relativePath": "resources/discoverImg/discover_11.png"
   },
   "a638c877-6403-494a-9a03-010066aeca0d": {
     "asset": 1720496232000,
-    "meta": 1720576211809,
+    "meta": 1720750546489,
     "relativePath": "resources/discoverImg/discover_13.png"
   },
   "f24af3d5-c14f-4d5c-8f24-967e5ffe8ca7": {
     "asset": 1720496232000,
-    "meta": 1720576211816,
+    "meta": 1720750546502,
     "relativePath": "resources/discoverImg/discover_16.png"
   },
   "1a7ce779-58c1-4664-9961-1e621a9f0d7d": {
     "asset": 1720496232000,
-    "meta": 1720576211817,
+    "meta": 1720750546515,
     "relativePath": "resources/discoverImg/discover_15.png"
   },
   "69df2ea4-016f-4398-bd65-a3c7805e623a": {
     "asset": 1720496232000,
-    "meta": 1720576211820,
+    "meta": 1720750546509,
     "relativePath": "resources/discoverImg/discover_17.png"
   },
   "492d29ba-4a1d-4acc-be78-c28a5981cd93": {
     "asset": 1720496232000,
-    "meta": 1720576211828,
+    "meta": 1720750546526,
     "relativePath": "resources/discoverImg/discover_14.png"
   },
   "df053050-030e-4f5c-8de3-9873d981f922": {
     "asset": 1720496232000,
-    "meta": 1720576211843,
+    "meta": 1720750546537,
     "relativePath": "resources/discoverImg/discover_18.png"
   },
   "ee1d9784-4b27-417c-9dfd-ea6179b963b3": {
     "asset": 1720496232000,
-    "meta": 1720576211845,
+    "meta": 1720750546535,
     "relativePath": "resources/discoverImg/discover_2.png"
   },
   "fb931fed-f4b4-42e4-b5b5-4d259e49eb67": {
     "asset": 1720496232000,
-    "meta": 1720576211846,
+    "meta": 1720750546541,
     "relativePath": "resources/discoverImg/discover_19.png"
   },
   "ca013af7-7a1e-432a-bd1e-60f8a2807064": {
     "asset": 1720496232000,
-    "meta": 1720576211847,
+    "meta": 1720750546549,
     "relativePath": "resources/discoverImg/discover_20.png"
   },
   "bae546d5-da43-46da-a1d6-0aaadc1e86cc": {
     "asset": 1720496232000,
-    "meta": 1720576211864,
+    "meta": 1720750546560,
     "relativePath": "resources/discoverImg/discover_21.png"
   },
   "5b6427ea-2553-46db-bbaa-a5a6deb92793": {
     "asset": 1720496232000,
-    "meta": 1720576211872,
+    "meta": 1720750546564,
     "relativePath": "resources/discoverImg/discover_22.png"
   },
   "939088cf-1a6c-43cb-a7af-4a4e62260cf4": {
     "asset": 1720496232000,
-    "meta": 1720576211874,
+    "meta": 1720750546578,
     "relativePath": "resources/discoverImg/discover_23.png"
   },
   "fa9a5cb4-b756-4ae5-967c-0109efe68ce8": {
     "asset": 1720496232000,
-    "meta": 1720576211874,
+    "meta": 1720750546580,
     "relativePath": "resources/discoverImg/discover_24.png"
   },
   "4c7c4c81-553e-49f8-b4a3-060346a829f8": {
     "asset": 1720496232000,
-    "meta": 1720576211883,
+    "meta": 1720750546593,
     "relativePath": "resources/discoverImg/discover_25.png"
   },
   "427f3861-c9b2-442e-bffc-9a9d5efe2516": {
     "asset": 1720496232000,
-    "meta": 1720576211893,
+    "meta": 1720750546614,
     "relativePath": "resources/discoverImg/discover_26.png"
   },
   "65df7523-b91b-4251-a1fa-7812511b4fb4": {
     "asset": 1720496232000,
-    "meta": 1720576211906,
+    "meta": 1720750546629,
     "relativePath": "resources/discoverImg/discover_28.png"
   },
   "c850aa0e-bc3c-4be4-8e7a-2403fa16a22b": {
     "asset": 1720496232000,
-    "meta": 1720576211907,
+    "meta": 1720750546645,
     "relativePath": "resources/discoverImg/discover_3.png"
   },
   "3343a623-9492-4663-b253-549ff6f5272d": {
     "asset": 1720496232000,
-    "meta": 1720576211908,
+    "meta": 1720750546629,
     "relativePath": "resources/discoverImg/discover_29.png"
   },
   "1776472d-f3aa-4fce-b971-d602b69c8e1b": {
     "asset": 1720496232000,
-    "meta": 1720576211918,
+    "meta": 1720750546630,
     "relativePath": "resources/discoverImg/discover_27.png"
   },
   "fd6f1e7a-2a61-4bd1-ba00-5e19a07e6778": {
     "asset": 1720496232000,
-    "meta": 1720576211938,
+    "meta": 1720750546664,
     "relativePath": "resources/discoverImg/discover_6.png"
   },
   "fd5a10a4-46a2-4727-aebc-047273bc5960": {
     "asset": 1720496232000,
-    "meta": 1720576211939,
+    "meta": 1720750546652,
     "relativePath": "resources/discoverImg/discover_30.png"
   },
   "d63911f9-8a90-4dfb-a84a-58faa101fca6": {
     "asset": 1720496232000,
-    "meta": 1720576211941,
+    "meta": 1720750546660,
     "relativePath": "resources/discoverImg/discover_7.png"
   },
   "e5419031-8af3-4e66-b950-7266b42ae74b": {
     "asset": 1720496232000,
-    "meta": 1720576211942,
+    "meta": 1720750546661,
     "relativePath": "resources/discoverImg/discover_4.png"
   },
   "f3741f7b-8f1a-44ce-acdc-6e0cfc6b08e6": {
     "asset": 1720496232000,
-    "meta": 1720576211956,
+    "meta": 1720750546683,
     "relativePath": "resources/discoverImg/discover_5.png"
   },
   "527b7111-a285-4fbe-8a3e-dd7c94057f4e": {
     "asset": 1720496240000,
-    "meta": 1720576211965,
+    "meta": 1720750546714,
     "relativePath": "resources/fineImg/fine_11.png"
   },
   "c918e716-fad1-4f53-a34d-b09df3233822": {
     "asset": 1720496232000,
-    "meta": 1720576211967,
+    "meta": 1720750546692,
     "relativePath": "resources/discoverImg/discover_8.png"
   },
   "9193a9ff-becf-4c52-9e5f-34d5c3889fb8": {
     "asset": 1720496240000,
-    "meta": 1720576211974,
+    "meta": 1720750546693,
     "relativePath": "resources/fineImg/fine_10.png"
   },
   "dd1d8893-8dab-40b7-983c-a00787970e6f": {
     "asset": 1720496240000,
-    "meta": 1720576211975,
+    "meta": 1720750546696,
     "relativePath": "resources/fineImg/fine_1.png"
   },
   "1906b839-21ef-4c2a-aac3-e62155546d64": {
     "asset": 1720508286000,
-    "meta": 1720576211984,
+    "meta": 1720750546694,
     "relativePath": "resources/discoverImg/discover_9.png"
   },
   "91c755bc-8e20-46d0-9bf6-35178c316ffa": {
     "asset": 1720496240000,
-    "meta": 1720576212004,
+    "meta": 1720750546723,
     "relativePath": "resources/fineImg/fine_12.png"
   },
   "c4eb8923-6e9c-4f6d-8700-fd87ce27a12c": {
     "asset": 1720496240000,
-    "meta": 1720576212005,
+    "meta": 1720750546735,
     "relativePath": "resources/fineImg/fine_14.png"
   },
   "f25e3170-a5a3-4199-84ab-904be64d10b8": {
     "asset": 1720496240000,
-    "meta": 1720576212006,
+    "meta": 1720750546725,
     "relativePath": "resources/fineImg/fine_15.png"
   },
   "dfe4feb3-066b-4e00-9d72-74860e0d1e09": {
     "asset": 1720496240000,
-    "meta": 1720576212007,
+    "meta": 1720750546725,
     "relativePath": "resources/fineImg/fine_13.png"
   },
   "f3316f34-8d76-43a7-883c-c78460ac1e1a": {
     "asset": 1720496240000,
-    "meta": 1720576212022,
+    "meta": 1720750546744,
     "relativePath": "resources/fineImg/fine_16.png"
   },
   "4c9a3634-51a8-451b-ad6e-f16b11ae86b2": {
     "asset": 1720496240000,
-    "meta": 1720576212030,
+    "meta": 1720750546761,
     "relativePath": "resources/fineImg/fine_17.png"
   },
   "327da715-b0b9-4057-b791-a403ed8cb82d": {
     "asset": 1720496240000,
-    "meta": 1720576212031,
+    "meta": 1720750546795,
     "relativePath": "resources/fineImg/fine_20.png"
   },
   "5017e136-d718-4482-9134-491b1f2e7625": {
     "asset": 1720496240000,
-    "meta": 1720576212033,
+    "meta": 1720750546759,
     "relativePath": "resources/fineImg/fine_18.png"
   },
   "2f291a83-a120-4068-83bd-e31e6c373978": {
     "asset": 1720496240000,
-    "meta": 1720576212046,
+    "meta": 1720750546763,
     "relativePath": "resources/fineImg/fine_2.png"
   },
   "edd05374-696b-4e5f-9d77-d86fb8125951": {
     "asset": 1720496240000,
-    "meta": 1720576212049,
+    "meta": 1720750546758,
     "relativePath": "resources/fineImg/fine_19.png"
   },
   "fc672222-9850-4305-ab4a-823359165e3f": {
     "asset": 1720496240000,
-    "meta": 1720576212058,
+    "meta": 1720750546796,
     "relativePath": "resources/fineImg/fine_21.png"
   },
   "d35810cb-dcfe-499a-98f8-34ec2ee63426": {
     "asset": 1720496240000,
-    "meta": 1720576212059,
+    "meta": 1720750546799,
     "relativePath": "resources/fineImg/fine_22.png"
   },
   "65aa3fc1-2a36-45af-b01a-140b3148487b": {
     "asset": 1720496240000,
-    "meta": 1720576212067,
+    "meta": 1720750546814,
     "relativePath": "resources/fineImg/fine_23.png"
   },
   "a3e38f7f-939b-4a29-afe4-494eef6c3f96": {
     "asset": 1720496240000,
-    "meta": 1720576212074,
+    "meta": 1720750546798,
     "relativePath": "resources/fineImg/fine_24.png"
   },
   "19aecf9a-e879-414d-a0b4-994171c7edd3": {
     "asset": 1720496240000,
-    "meta": 1720576212093,
+    "meta": 1720750546842,
     "relativePath": "resources/fineImg/fine_26.png"
   },
   "0186acb5-ace8-4874-bc8f-0b7a3da95354": {
     "asset": 1720496240000,
-    "meta": 1720576212094,
+    "meta": 1720750546820,
     "relativePath": "resources/fineImg/fine_25.png"
   },
   "0a9fcaab-49a8-40d1-b167-b5dd75691138": {
     "asset": 1720496240000,
-    "meta": 1720576212098,
+    "meta": 1720750546843,
     "relativePath": "resources/fineImg/fine_28.png"
   },
   "bc6ba633-ed66-4160-aa45-7c400482626c": {
     "asset": 1720496240000,
-    "meta": 1720576212099,
+    "meta": 1720750546862,
     "relativePath": "resources/fineImg/fine_27.png"
   },
   "c5b38682-fbfc-471a-968f-bc72caa1f454": {
     "asset": 1720496240000,
-    "meta": 1720576212119,
+    "meta": 1720750546844,
     "relativePath": "resources/fineImg/fine_29.png"
   },
   "2f00dc6a-2f16-488c-9e05-96c09bd37839": {
     "asset": 1720496240000,
-    "meta": 1720576212172,
+    "meta": 1720750546887,
     "relativePath": "resources/fineImg/fine_30.png"
   },
   "ec62ffa0-3d2d-4ebc-900c-27b10a512f74": {
     "asset": 1720496240000,
-    "meta": 1720576212173,
+    "meta": 1720750546870,
     "relativePath": "resources/fineImg/fine_3.png"
   },
   "f4b91449-71aa-43cd-960f-3aca9984313d": {
     "asset": 1720496240000,
-    "meta": 1720576212197,
+    "meta": 1720750546888,
     "relativePath": "resources/fineImg/fine_6.png"
   },
   "49fd3618-b18b-49be-a1ef-3f249eafbc3f": {
     "asset": 1720496240000,
-    "meta": 1720576212198,
+    "meta": 1720750546891,
     "relativePath": "resources/fineImg/fine_5.png"
   },
   "0c653f72-5759-496b-80bd-911145bf5646": {
     "asset": 1720507338000,
-    "meta": 1720576212203,
+    "meta": 1720750546894,
     "relativePath": "resources/imgConfig/rank10.json"
   },
   "59c4a5a2-7077-48e6-961f-c6c80d07f40c": {
     "asset": 1720507434000,
-    "meta": 1720576212204,
+    "meta": 1720750546893,
     "relativePath": "resources/imgConfig/rank1.json"
   },
   "37196102-b4a0-47b9-8611-ab47a7521b33": {
     "asset": 1720496240000,
-    "meta": 1720576212199,
+    "meta": 1720750546929,
     "relativePath": "resources/fineImg/fine_7.png"
   },
   "88c01523-3b7e-4590-bb55-7d9d3325e98b": {
     "asset": 1720507338000,
-    "meta": 1720576212206,
+    "meta": 1720750546895,
     "relativePath": "resources/imgConfig/rank11.json"
   },
   "d704fea0-69fa-46d3-aef4-dfef0548ab2d": {
     "asset": 1720507338000,
-    "meta": 1720576212207,
+    "meta": 1720750546897,
     "relativePath": "resources/imgConfig/rank12.json"
   },
   "3cf31f6d-87ae-4641-8bbb-b23f7a8c584e": {
     "asset": 1720496240000,
-    "meta": 1720576212200,
+    "meta": 1720750546889,
     "relativePath": "resources/fineImg/fine_4.png"
   },
   "0f2209b5-822a-4e70-a3db-7c645f9bace6": {
     "asset": 1720519026000,
-    "meta": 1720576212209,
+    "meta": 1720750546898,
     "relativePath": "resources/imgConfig/rank13.json"
   },
   "6bb88a25-ff8f-4a63-9187-2c03746d4349": {
     "asset": 1720507338000,
-    "meta": 1720576212210,
+    "meta": 1720750546899,
     "relativePath": "resources/imgConfig/rank14.json"
   },
   "7913c1e0-a5d1-4392-a15f-641d526e6b79": {
     "asset": 1720507338000,
-    "meta": 1720576212212,
+    "meta": 1720750546901,
     "relativePath": "resources/imgConfig/rank15.json"
   },
   "3d0610d9-e393-4387-a736-8ba30ad2139e": {
     "asset": 1720507338000,
-    "meta": 1720576212213,
+    "meta": 1720750546903,
     "relativePath": "resources/imgConfig/rank16.json"
   },
   "27c4ec79-7dd5-4b07-8314-f51f6f0f692b": {
     "asset": 1720507338000,
-    "meta": 1720576212215,
+    "meta": 1720750546904,
     "relativePath": "resources/imgConfig/rank17.json"
   },
   "999e51af-f954-4224-bb7d-429b4796e25c": {
     "asset": 1720507338000,
-    "meta": 1720576212216,
+    "meta": 1720750546906,
     "relativePath": "resources/imgConfig/rank18.json"
   },
   "2c9873ed-7df3-4d29-9484-9af7847c6d07": {
     "asset": 1720507338000,
-    "meta": 1720576212217,
+    "meta": 1720750546910,
     "relativePath": "resources/imgConfig/rank19.json"
   },
   "bd0130d2-36d8-450a-a406-bbdeff0598c2": {
     "asset": 1720507338000,
-    "meta": 1720576212218,
+    "meta": 1720750546912,
     "relativePath": "resources/imgConfig/rank2.json"
   },
   "4614e922-a17b-457a-8576-e7945ce62bf2": {
     "asset": 1720507338000,
-    "meta": 1720576212230,
+    "meta": 1720750546913,
     "relativePath": "resources/imgConfig/rank20.json"
   },
   "1a0ef500-f8a2-48ab-8935-e824c40e9fb8": {
     "asset": 1720507338000,
-    "meta": 1720576212231,
+    "meta": 1720750546914,
     "relativePath": "resources/imgConfig/rank21.json"
   },
   "8756bc9f-bf2b-4191-a0ea-af48f26ce510": {
     "asset": 1720507338000,
-    "meta": 1720576212232,
+    "meta": 1720750546915,
     "relativePath": "resources/imgConfig/rank22.json"
   },
   "47eebfb0-25d4-48e3-b0d3-77754e186a57": {
     "asset": 1720507338000,
-    "meta": 1720576212235,
+    "meta": 1720750546916,
     "relativePath": "resources/imgConfig/rank23.json"
   },
   "d23dbdac-6400-427b-b561-ad521b786e36": {
     "asset": 1720507338000,
-    "meta": 1720576212237,
+    "meta": 1720750546918,
     "relativePath": "resources/imgConfig/rank24.json"
   },
   "564f5b35-77ce-4cd1-a0d4-02eb13749c14": {
     "asset": 1720496240000,
-    "meta": 1720576212233,
+    "meta": 1720750546930,
     "relativePath": "resources/fineImg/fine_8.png"
   },
   "07722cd8-2fa7-4d1b-95c6-83feb5910fa9": {
     "asset": 1720507338000,
-    "meta": 1720576212238,
+    "meta": 1720750546919,
     "relativePath": "resources/imgConfig/rank25.json"
   },
   "bd3c52da-ed21-484c-b36b-280fbd104d4a": {
     "asset": 1720507338000,
-    "meta": 1720576212239,
+    "meta": 1720750546920,
     "relativePath": "resources/imgConfig/rank26.json"
   },
   "3d2b3379-5360-4d57-a952-e51dde534cd7": {
     "asset": 1720507338000,
-    "meta": 1720576212240,
+    "meta": 1720750546921,
     "relativePath": "resources/imgConfig/rank27.json"
   },
   "897969f4-cbcd-4069-9390-8d63007ef9df": {
     "asset": 1720508280000,
-    "meta": 1720576212236,
+    "meta": 1720750546939,
     "relativePath": "resources/fineImg/fine_9.png"
   },
   "f9f4c553-1562-4fe6-a105-5d85d21e4513": {
     "asset": 1720507338000,
-    "meta": 1720576212242,
+    "meta": 1720750546922,
     "relativePath": "resources/imgConfig/rank28.json"
   },
   "a066ab88-64c0-4261-9379-0bd7b51a3b48": {
     "asset": 1720507338000,
-    "meta": 1720576212243,
+    "meta": 1720750546924,
     "relativePath": "resources/imgConfig/rank29.json"
   },
   "db55575b-1017-4232-b6eb-6567d29cf4c9": {
     "asset": 1720507338000,
-    "meta": 1720576212244,
+    "meta": 1720750546927,
     "relativePath": "resources/imgConfig/rank3.json"
   },
   "684bfc2c-a554-4348-9a49-7f8eda96aedc": {
     "asset": 1720507338000,
-    "meta": 1720576212246,
+    "meta": 1720750546928,
     "relativePath": "resources/imgConfig/rank30.json"
   },
   "5b689472-96eb-4bdf-96bb-8e6ac7be3c86": {
     "asset": 1720507338000,
-    "meta": 1720576212247,
+    "meta": 1720750546932,
     "relativePath": "resources/imgConfig/rank4.json"
   },
   "a3e1946e-8816-4ce9-960e-d594b589e2ec": {
     "asset": 1720507338000,
-    "meta": 1720576212247,
+    "meta": 1720750546933,
     "relativePath": "resources/imgConfig/rank5.json"
   },
   "d631bb3e-bd0f-4b30-ba82-9a170f042b81": {
     "asset": 1720507338000,
-    "meta": 1720576212249,
+    "meta": 1720750546935,
     "relativePath": "resources/imgConfig/rank6.json"
   },
   "6f223795-d7a3-4984-a26a-36794bac0f16": {
     "asset": 1720517726000,
-    "meta": 1720576212250,
+    "meta": 1720750546936,
     "relativePath": "resources/imgConfig/rank7.json"
   },
   "717b4f42-40c7-4b03-b048-d131a40362e9": {
     "asset": 1720507338000,
-    "meta": 1720576212251,
+    "meta": 1720750546937,
     "relativePath": "resources/imgConfig/rank8.json"
   },
   "502422ab-7682-4f16-8acb-2b01e8f04c8a": {
     "asset": 1720508402000,
-    "meta": 1720576212252,
+    "meta": 1720750546938,
     "relativePath": "resources/imgConfig/rank9.json"
   },
   "e1901ac4-c56b-4025-841c-cb5518eb4c1f": {
     "asset": 1720421644000,
-    "meta": 1720576212254,
+    "meta": 1720750546969,
     "relativePath": "resources/prefeb/BookPop.prefab"
   },
   "58b0d579-b938-4e32-8ae7-bab4958c6a6c": {
     "asset": 1720421696000,
-    "meta": 1720576212256,
+    "meta": 1720750546942,
     "relativePath": "resources/prefeb/MoonPop.prefab"
   },
   "31fb9787-f1ca-41df-bc79-78442d2b82ab": {
     "asset": 1720421648000,
-    "meta": 1720576212268,
+    "meta": 1720750546971,
     "relativePath": "resources/prefeb/TreePop.prefab"
   },
   "2abaccb4-50ac-40c7-8ec8-0fbb303a0efa": {
     "asset": 1720421670000,
-    "meta": 1720576212269,
+    "meta": 1720750546974,
     "relativePath": "resources/prefeb/StarPop.prefab"
   },
   "f283feed-4984-4263-a5e1-971083947594": {
     "asset": 1720507706000,
-    "meta": 1720576212278,
+    "meta": 1720750546943,
     "relativePath": "resources/prefeb/newhand.prefab"
   },
   "1154cf02-9b6a-4026-8017-dffe1523eac0": {
-    "asset": 1720666280331,
-    "meta": 1720666280336,
+    "asset": 1720666280000,
+    "meta": 1720750546956,
     "relativePath": "resources/prefeb/toast.prefab"
   },
   "3be3d2e1-b3da-4120-aacd-bb4b69a00ba9": {
     "asset": 1720421724000,
-    "meta": 1720576212282,
+    "meta": 1720750546985,
     "relativePath": "resources/prefeb/windPop.prefab"
   },
   "45edd9b6-7409-43c8-9ce5-e98c1e27b26b": {
     "asset": 1715759254000,
-    "meta": 1720576212793,
+    "meta": 1720750547544,
     "relativePath": "resources/sound/correct.mp3"
   },
   "288ff68f-d992-4c61-96a8-07dd06730534": {
     "asset": 1720426428000,
-    "meta": 1720576212807,
+    "meta": 1720750547528,
     "relativePath": "script/dialog/BookPop.ts"
   },
   "6a25089d-d068-4667-9e81-e1661460dfbc": {
     "asset": 1715759254000,
-    "meta": 1720576212808,
+    "meta": 1720750547529,
     "relativePath": "resources/sound/click.mp3"
   },
   "984605c5-16cd-4908-8f5f-d15985b97056": {
     "asset": 1720426722000,
-    "meta": 1720576212821,
+    "meta": 1720750547543,
     "relativePath": "script/dialog/MoonPop.ts"
   },
   "65eeb8e1-d321-4225-b579-a73fef81234e": {
     "asset": 1715759254000,
-    "meta": 1720576212822,
+    "meta": 1720750547514,
     "relativePath": "resources/sound/err.mp3"
   },
   "9335ddba-4f4e-438c-9c3c-31a7020ac792": {
     "asset": 1720426730000,
-    "meta": 1720576212833,
+    "meta": 1720750547555,
     "relativePath": "script/dialog/StarPop.ts"
   },
   "d16c6afe-dd98-4e5c-9821-23691f8943be": {
     "asset": 1715759254000,
-    "meta": 1720576212834,
+    "meta": 1720750547806,
     "relativePath": "resources/sound/fail.mp3"
   },
   "373fef08-35c6-47f0-a21b-1bd3c30995ab": {
     "asset": 1720426742000,
-    "meta": 1720576212869,
+    "meta": 1720750547590,
     "relativePath": "script/dialog/TreePop.ts"
   },
   "5a09abaa-9ac0-46db-b249-d9bbe7229924": {
     "asset": 1720426750000,
-    "meta": 1720576212887,
+    "meta": 1720750547606,
     "relativePath": "script/dialog/windPop.ts"
   },
   "b349dd08-75d6-4ee5-b0c5-f453a9029ccb": {
     "asset": 1720430236000,
-    "meta": 1720576212902,
+    "meta": 1720750547621,
     "relativePath": "script/prefeb/imgItem.ts"
   },
   "9a1e0953-63bd-4f98-9aee-cfd6e326540a": {
     "asset": 1717472192000,
-    "meta": 1720576212920,
+    "meta": 1720750547645,
     "relativePath": "script/prefeb/newhand.ts"
   },
   "7fe7e2a6-1d6b-4e06-97ce-e844478a0c47": {
     "asset": 1720519652000,
-    "meta": 1720576212948,
+    "meta": 1720750547675,
     "relativePath": "script/tool/findControl.ts"
   },
   "b835c4bf-ab13-4b6d-a932-ca0e474cd79a": {
     "asset": 1717654448000,
-    "meta": 1720576212986,
+    "meta": 1720750547718,
     "relativePath": "script/tool/findResBind.ts"
   },
   "d80226e1-686b-48df-81ce-fbd07880fc65": {
     "asset": 1720517912000,
-    "meta": 1720576213014,
+    "meta": 1720750547745,
     "relativePath": "script/tool/findResUtil.ts"
   },
   "6742e163-0918-4276-99f2-65231e1faeab": {
     "asset": 1717643808000,
-    "meta": 1720576213033,
+    "meta": 1720750547766,
     "relativePath": "script/tool/findScroll.ts"
   },
   "e1b01b41-bce8-46af-98fa-93098ce8511d": {
     "asset": 1715759254000,
-    "meta": 1720576213035,
+    "meta": 1720750547706,
     "relativePath": "resources/sound/win.mp3"
   },
   "090fc800-656c-4e33-aa70-ca41e8c8fbf2": {
     "asset": 1720494434000,
-    "meta": 1720576213062,
+    "meta": 1720750547790,
     "relativePath": "script/tool/findSoundTool.ts"
   },
   "f021ed32-7436-42fa-a24c-8c92a36f2b18": {
     "asset": 1720426036000,
-    "meta": 1720576213074,
+    "meta": 1720750547804,
     "relativePath": "script/tool/findStorage.ts"
   },
   "4ba790af-1567-4297-b97c-ba2adb6b3371": {
     "asset": 1720513960000,
-    "meta": 1720576213087,
+    "meta": 1720750547808,
     "relativePath": "resources/sound/bgm.mp3"
   },
   "73ed6fd0-771c-4efa-921b-4634be158fce": {
-    "asset": 1720580853552,
-    "meta": 1720580861184,
+    "asset": 1720688610000,
+    "meta": 1720750546081,
     "relativePath": "script/host.ts"
   },
-  "57cab89b-95bc-4e07-b2ad-915e8c8991bf": {
-    "asset": 1720593815741,
-    "meta": 1720593817868,
-    "relativePath": "script/tool/findGameData.ts"
-  },
   "01474d54-1aeb-41c1-acb7-27f64beabdca": {
-    "asset": 1720665943771,
-    "meta": 1720666014695,
+    "asset": 1720665944000,
+    "meta": 1720750546107,
     "relativePath": "script/parlour.ts"
   },
   "3f30a6b5-c115-436c-bafc-2e08b496dcf6": {
-    "asset": 1720665886740,
-    "meta": 1720666014746,
+    "asset": 1720688344000,
+    "meta": 1720750546163,
     "relativePath": "script/register.ts"
   },
   "e142b51c-6e9a-498b-b0e0-b0551a3be88e": {
-    "asset": 1720666070793,
-    "meta": 1720666070813,
+    "asset": 1720666070000,
+    "meta": 1720750546363,
     "relativePath": "img/happy/lock icon.png"
   },
   "18f40745-bc26-4c8b-bb34-5e374f59713a": {
-    "asset": 1720666103258,
-    "meta": 1720666103285,
+    "asset": 1720666104000,
+    "meta": 1720750546346,
     "relativePath": "img/happy/happy_blue_book.png"
   },
   "cf5bd48c-db6e-42c9-9d8d-b3f5069ebed9": {
-    "asset": 1720666128198,
-    "meta": 1720666136022,
+    "asset": 1720666128000,
+    "meta": 1720750546270,
     "relativePath": "img/common/peace_tishi.png"
+  },
+  "57cab89b-95bc-4e07-b2ad-915e8c8991bf": {
+    "asset": 1720755826503,
+    "meta": 1720755832146,
+    "relativePath": "script/tool/findGameData.ts"
   }
 }

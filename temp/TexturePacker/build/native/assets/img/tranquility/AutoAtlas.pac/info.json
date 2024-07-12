@@ -4,55 +4,55 @@
   "mtimes": {
     "1ade1819-4666-41c0-90b7-713add03720d": {
       "assetMtime": 1715846992000,
-      "metaMtime": 1720576211730
+      "metaMtime": 1720750546391
     },
     "153c3050-7050-404d-b33e-b67030cb1bca": {
       "assetMtime": 1720147440000,
-      "metaMtime": 1720576211760
+      "metaMtime": 1720750546413
     },
     "c5f8371b-4328-4879-a57c-e1c1f1d7d730": {
       "assetMtime": 1720147440000,
-      "metaMtime": 1720576211760
+      "metaMtime": 1720750546413
     },
     "64829083-44f0-4184-9e41-b22907ddbca7": {
-      "assetMtime": 1720147658000,
-      "metaMtime": 1720576211754
+      "assetMtime": 1720750158000,
+      "metaMtime": 1720750546419
     },
     "a995e65c-37c2-4df6-a0c3-15d1ccafd2df": {
-      "assetMtime": 1720147658000,
-      "metaMtime": 1720576211754
+      "assetMtime": 1720750158000,
+      "metaMtime": 1720750546419
     },
     "74af28d1-061a-4446-bea1-6fcb5116793e": {
       "assetMtime": 1720147372000,
-      "metaMtime": 1720576211784
+      "metaMtime": 1720750546460
     },
     "f33a47ef-a873-4711-a3aa-75f498a3efc4": {
       "assetMtime": 1720147372000,
-      "metaMtime": 1720576211784
+      "metaMtime": 1720750546460
     },
     "7ad3206c-5f8c-4189-bbce-cca7ce3e6b50": {
       "assetMtime": 1720147540000,
-      "metaMtime": 1720576211740
+      "metaMtime": 1720750546401
     },
     "5df219a2-6ee3-449a-a467-2bd072b76e2e": {
       "assetMtime": 1720147540000,
-      "metaMtime": 1720576211740
+      "metaMtime": 1720750546401
     },
     "d80313a7-bc37-4b35-8737-3c31aefd20d5": {
       "assetMtime": 1720147540000,
-      "metaMtime": 1720576211744
+      "metaMtime": 1720750546410
     },
     "408cac22-b7fa-4144-8ab7-ddd2efe091f2": {
       "assetMtime": 1720147540000,
-      "metaMtime": 1720576211744
+      "metaMtime": 1720750546410
     },
     "fd20afa7-4d67-4b83-85be-04e03d515025": {
       "assetMtime": 1720147686000,
-      "metaMtime": 1720576211751
+      "metaMtime": 1720750546415
     },
     "25755345-524f-4636-a244-674d59d892a3": {
       "assetMtime": 1720147686000,
-      "metaMtime": 1720576211751
+      "metaMtime": 1720750546415
     }
   },
   "result": {
@@ -88,7 +88,7 @@
             "name": "tranquility_text",
             "uuid": "153c3050-7050-404d-b33e-b67030cb1bca",
             "textureUuid": "c5f8371b-4328-4879-a57c-e1c1f1d7d730",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576527532_image_0.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751714544_image_0.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -111,7 +111,7 @@
             "name": "tranquility_bar_yellow",
             "uuid": "d80313a7-bc37-4b35-8737-3c31aefd20d5",
             "textureUuid": "408cac22-b7fa-4144-8ab7-ddd2efe091f2",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576527532_image_4.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751714544_image_4.png",
             "trim": {
               "x": 3,
               "y": 42,
@@ -134,7 +134,7 @@
             "name": "tranquility_bar_di",
             "uuid": "7ad3206c-5f8c-4189-bbce-cca7ce3e6b50",
             "textureUuid": "5df219a2-6ee3-449a-a467-2bd072b76e2e",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576527532_image_3.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751714544_image_3.png",
             "trim": {
               "x": 3,
               "y": 80,
@@ -157,7 +157,7 @@
             "name": "tranquility_play",
             "uuid": "fd20afa7-4d67-4b83-85be-04e03d515025",
             "textureUuid": "25755345-524f-4636-a244-674d59d892a3",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576527532_image_5.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751714545_image_5.png",
             "trim": {
               "x": 3,
               "y": 128,
@@ -181,7 +181,7 @@
             "name": "tranquility_logo",
             "uuid": "64829083-44f0-4184-9e41-b22907ddbca7",
             "textureUuid": "a995e65c-37c2-4df6-a0c3-15d1ccafd2df",
-            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576527532_image_1.png",
+            "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751714544_image_1.png",
             "trim": {
               "x": 181,
               "y": 128,
@@ -219,7 +219,7 @@
         "name": "loading_bg",
         "uuid": "74af28d1-061a-4446-bea1-6fcb5116793e",
         "textureUuid": "f33a47ef-a873-4711-a3aa-75f498a3efc4",
-        "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720576527532_image_2.png",
+        "path": "/Users/aw/Desktop/find6/temp/trimImages/spritesheet_js_1720751714544_image_2.png",
         "trim": {
           "x": 0,
           "y": 0,
